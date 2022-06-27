@@ -1,5 +1,5 @@
 ## Binus University 2024 - Cyber Security <br>
-## Software Engineering - LC07 Kelompok 2 <br>
+Software Engineering - LC07 Kelompok 2 <br>
 <br>
 Budiman - 2440033413 <br>
 Sobhita Tissa Cinta Kondanna - 2440067723 <br>
