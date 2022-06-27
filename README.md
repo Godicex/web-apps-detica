@@ -1,11 +1,11 @@
-Binus University 2024 - Cyber Security
-Software Engineering - LC07 Kelompok 2
-Budiman - 2440033413
-Sobhita Tissa Cinta Kondanna - 2440067723
-Gede Krisnanditha Putra W - 2440051681
-Anne Ramadhini Anwar - 2440052154
-William Shan Bailey Sitanggang - 2440070610
-Wafa Nafila - 2001591666
+Binus University 2024 - Cyber Security <br>
+Software Engineering - LC07 Kelompok 2 <br>
+Budiman - 2440033413 <br>
+Sobhita Tissa Cinta Kondanna - 2440067723 <br>
+Gede Krisnanditha Putra W - 2440051681 <br>
+Anne Ramadhini Anwar - 2440052154 <br>
+William Shan Bailey Sitanggang - 2440070610 <br>
+Wafa Nafila - 2001591666 <br>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
