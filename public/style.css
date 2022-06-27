@@ -1,0 +1,131 @@
+html, body{
+    font-size: 16px;
+    background-color: #EEE;
+    font-family: Helvetica, Arial, sans-serif;
+    width: 100%;
+    background: #1690A7;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+h1, h2, h3{
+    margin: 0;
+}
+#container{
+    background-color: white;
+    width: 50%;
+    height: 100%;
+}
+hr{
+    width: 95%;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#header{
+    background-color: #0D659D;
+    height: 7%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#title{
+    width: 90%;
+    float: left;
+    text-align: left;
+    font-size: 1.5rem;
+}
+
+#settings{
+    text-align: right;
+}
+
+.listContainer{
+    height: 80%;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.listItems{
+    padding: clamp(10px, 3%, 30px);
+    width: 90%;
+    gap: 5%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.Book{
+    aspect-ratio: 2/1;
+    position: relative;
+    padding: clamp(10px, 3%, 30px);
+    margin: 0 auto;
+    clear: both;
+    height: 15%;
+    max-width: 90%;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+#cover{
+    float: left;
+    height: 100px;
+    width: 40%;
+
+}
+#image{
+    aspect-ratio: 3/4 ;
+    height: 80%;
+    border: 3px solid #8B8FFF;
+}
+#info{
+    font-size:  2rem;
+    color: #0D659D;
+    float:left;
+    position: relative;
+    left: clamp(10px, 10%, 30px);
+    font-size: 0.8rem;
+}
+#location{
+    text-align: left;
+    padding: 10px;
+}
+
+#menu{
+    clear: both;
+    background-color: #0D659D;
+    color: white;
+    text-align: center;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+    width: 50%;
+    gap: 50px;
+
+}
+.btn {
+    background-color: DodgerBlue; /* Blue background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 12px 16px; /* Some padding */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+    width: 30%;
+  }
+
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
